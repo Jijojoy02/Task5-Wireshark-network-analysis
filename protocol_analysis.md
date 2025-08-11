@@ -1,5 +1,5 @@
 
-# 📡 Protocol Analysis – Task 5 Wireshark Capture
+# 📡 Protocol Analysis – Wireshark Capture
 
 ## DNS (Domain Name System)
 - **Purpose:** Resolves human-readable hostnames (e.g., google.com) into IP addresses.
